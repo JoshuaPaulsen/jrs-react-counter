@@ -1,8 +1,8 @@
 # Counter App
 
-React Example
+A Simple React Example, created while attending JRS Coding School
 
-##Instructions
+# Instructions
 
 ```
 npm install
